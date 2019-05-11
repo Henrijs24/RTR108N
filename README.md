@@ -1,2 +1,2 @@
 # RTR108N
-Neklātines Grupas Sasniegumi Datormācībā
+Neklātienes Grupas Sasniegumi Datormācībā
